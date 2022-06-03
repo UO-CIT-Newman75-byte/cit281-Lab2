@@ -1,0 +1,2 @@
+git ls-files
+git ls-files > lab-02-files.txt
